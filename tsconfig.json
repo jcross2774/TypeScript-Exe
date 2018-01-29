@@ -3,6 +3,8 @@
     "sourceMap": true
   },
   "files": [
-    "009_union_types.ts",
+    "005_typescript_config.ts",
+    "006_5_interpolation.ts",
+    "006_variables.ts",
   ]
 }

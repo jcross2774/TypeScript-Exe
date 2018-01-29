@@ -10,7 +10,7 @@
 // console.log(versionNumber);
 
 function printName(f, l) {
-  var greeting : string = "Hi there, ";
+  var greeting : string = "Hi there,";
   console.log(greeting + f + " " + l);
 }
 
