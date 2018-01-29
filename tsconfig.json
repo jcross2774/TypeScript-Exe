@@ -6,5 +6,7 @@
     "005_typescript_config.ts",
     "006_5_interpolation.ts",
     "006_variables.ts",
+    "007_types.ts",
+    "008_type_alias.ts"
   ]
 }

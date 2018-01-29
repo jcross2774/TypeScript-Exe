@@ -7,7 +7,7 @@
 // console.log(paidAccount);
 // console.log(versionNumber);
 function printName(f, l) {
-    var greeting = "Hi there, ";
+    var greeting = "Hi there,";
     console.log(greeting + f + " " + l);
 }
 printName("James", "Cross");
