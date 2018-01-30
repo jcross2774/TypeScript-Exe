@@ -34,4 +34,3 @@ while (x > 0) {
     console.log(x);
     x--;
 }
-//# sourceMappingURL=010_arithmetic_operators.js.map

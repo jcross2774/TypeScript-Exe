@@ -6,13 +6,12 @@
 var players = [3, 10, 4, 5, 1];
 // for in
 console.log("For/In");
-for (var player in players) {
-    console.log(player);
+for (var player_1 in players) {
+    console.log(player_1);
 }
 // for of
 console.log("For/Of");
 for (var _i = 0, players_1 = players; _i < players_1.length; _i++) {
-    var player = players_1[_i];
-    console.log(player);
+    var player_2 = players_1[_i];
+    console.log(player_2);
 }
-//# sourceMappingURL=014_typescript_loops.js.map

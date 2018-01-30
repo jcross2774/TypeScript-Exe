@@ -16,4 +16,3 @@ names = ["James Cross", "Jen Ryan", "Abby Cross", "Kaylee Chillders"];
 console.log(names);
 names = "Jen Ryan";
 console.log(names);
-//# sourceMappingURL=009_union_types.js.map

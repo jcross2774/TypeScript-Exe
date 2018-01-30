@@ -4,4 +4,3 @@ var HelowAngularComponent = /** @class */ (function () {
     }
     return HelowAngularComponent;
 }());
-//# sourceMappingURL=hello_ts.js.map

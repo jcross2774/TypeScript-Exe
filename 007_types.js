@@ -26,4 +26,3 @@ var apiData = [123, 'Cross', false];
 function printOut(msg) {
     console.log(msg);
 }
-//# sourceMappingURL=007_types.js.map
