@@ -3,6 +3,6 @@
     "sourceMap": true
   },
   "files": [
-    "019_closures_intro.ts"
+    "020_classes.ts"
   ]
 }
