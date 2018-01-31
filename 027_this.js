@@ -21,4 +21,4 @@ var Invoice = /** @class */ (function () {
 var invoice = new Invoice(400);
 invoice.printTotal();
 invoice.printLater(1000);
-//# sourceMappingURL=025_this.js.map
+//# sourceMappingURL=027_this.js.map
