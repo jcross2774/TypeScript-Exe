@@ -3,7 +3,7 @@
 // Start mowing -> Pending
 // Complete mowing process -> Resolve
 // Did not complete mowing process -> Reject
-let performUpload = function (imgStatus: string): Promise<{ imgStatus: string }> {
+let performUpload = function (imgStatus : string): Promise<{ imgStatus : string }> {
   return new Promise((resolve) => {
     console.log(`Status: ${imgStatus}`);
     setTimeout(() => {
